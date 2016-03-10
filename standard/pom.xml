@@ -41,7 +41,7 @@
     <!-- Dependency versions that should be the same everywhere. -->
     <dep.commons-beanutils.version>1.9.1</dep.commons-beanutils.version>
     <dep.commons-codec.version>1.9</dep.commons-codec.version>
-    <dep.commons-collections.version>3.2.1</dep.commons-collections.version>
+    <dep.commons-collections.version>3.2.2</dep.commons-collections.version>
     <dep.commons-configuration.version>1.10</dep.commons-configuration.version>
     <dep.commons-io.version>2.4</dep.commons-io.version>
     <dep.commons-lang.version>2.6</dep.commons-lang.version>
